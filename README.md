@@ -11,6 +11,9 @@ USTH ICT 2020 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Truong Si Thi Vu - 189
+* Ta Duc Anh - 009
+* Nguyen Tuan Duy - 032
+* Praise Oketola - 137
+* Dinh Nhu Minh Phuong - 141
 
